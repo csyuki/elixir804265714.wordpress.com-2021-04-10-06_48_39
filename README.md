@@ -5,3 +5,4 @@ The webpage's name Delivary is composed of Delivery and Commentary, implying tha
 
 Project functions
 
+In terms of the general public, this website provides them with reliable and comprehensive reviews and rating on services given by different restaurants and various delivery platform. This allows them to pick the best choice when experiencing food delivery service, avoid chosing any unpleasant service providers. We are also setting up a membership system for the public to have their personal account such that we can give them a prime user experience by providing relavent recommendations according to their search results and preferences. We can also 
